@@ -1,5 +1,5 @@
 # DiffableDataSource-CollectionView
-iOS 13 Diffable Data Source &amp; Compositional Layout Example
+iOS 13 Diffable Data Source with Compositional Layout Example
 
 # Resources
 This repository contains an Xcode example project for the blog post at [Diffable Data Sources & Compositional Layouts Part 1/2](https://medium.com/@yoellev8/diffable-data-sources-compositional-layouts-part-1-2-90f53f120fdc).

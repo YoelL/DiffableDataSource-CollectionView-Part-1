@@ -73,8 +73,7 @@ extension CollectionViewController {
             return cell
         })
         
-        
-        let snapshot = DataSourceSnapshot()
+        var snapshot = DataSourceSnapshot()
         snapshot.appendSections([Section.main])
         snapshot.appendItems(self.contacts)
         dataSource.apply(snapshot, animatingDifferences: false)
